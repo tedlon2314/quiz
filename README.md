@@ -1,3 +1,5 @@
+Not sure why I am having trouble pushing files to repository. this is the second week in a row. Attached is a javascript quiz application hw assignment 
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/tedlon2314/quiz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
